@@ -72,11 +72,6 @@ namespace LatestModifiedFolders
 
             FixFolder(folder);
             Console.WriteLine("Done");
-
-            //if (updated)
-            //    Console.WriteLine("Successfully modified latest timestamps on folder '{0}'", folder);
-            //else
-            //    Console.WriteLine("Nothing to modify on folder '{0}'", folder);
         }
     }
 }
